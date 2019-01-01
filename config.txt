@@ -1,4 +1,4 @@
-token=NTEyOTA1NTM4MzkzMjEwODg4.Dw0FVw.Zmy6nzKW14I3Cuc20LUPF6yk28Q
+token=NTEyOTA1NTM4MzkzMjEwODg4.Dw0HNA.26-odbNnxLVvFPpCq2BJUP-j4Y0
 owner=341222091523096606
 prefix=&
 game=&help / show Commands
